@@ -12,4 +12,4 @@
 
 #### Learning Material:
 > * Lecture Series: [Link1](https://nptel.ac.in/courses/106105152)
-> * Blogs: [Decision Tree](https://codeburst.io/machine-learning-basic-understand-the-limit-of-trees-with-time-series-data-53875b1f1ef8)
+> * Blogs: [Decision Tree](https://codeburst.io/machine-learning-basic-understand-the-limit-of-trees-with-time-series-data-53875b1f1ef8) | [Hyperparameter tuning](https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680)
