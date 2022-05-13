@@ -12,4 +12,4 @@
 
 #### Learning Material:
 > * Lecture Series: [Link1](https://nptel.ac.in/courses/106105152)
-> * Blogs: 
+> * Blogs: [Decision Tree](https://codeburst.io/machine-learning-basic-understand-the-limit-of-trees-with-time-series-data-53875b1f1ef8)
