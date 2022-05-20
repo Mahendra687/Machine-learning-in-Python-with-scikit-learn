@@ -13,7 +13,7 @@
 #### Learning Material:
 > * Lecture Series: [Link1](https://nptel.ac.in/courses/106105152)
 > * Blogs: [Decision Tree](https://codeburst.io/machine-learning-basic-understand-the-limit-of-trees-with-time-series-data-53875b1f1ef8) | [Hyperparameter tuning](https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680)
-> [Glossary](https://lms.fun-mooc.fr/courses/course-v1:inria+41026+session02/fdb409a1a02a4e7497a2ff9533a496d1/)
+> * [Glossary](https://lms.fun-mooc.fr/courses/course-v1:inria+41026+session02/fdb409a1a02a4e7497a2ff9533a496d1/)
 
 
 Course Certificate:
